@@ -20,7 +20,7 @@
 </dict>
 </array>
 <key>PayloadDisplayName</key>
-<string>Chặn thu hồi ( Có chặn ADS ) ✅</string>
+<string>Anti-cert AND BLOCK ADS ✅</string>
 <key>PayloadIdentifier</key>
 <string>vevrl9air2.cloudflare-gateway.com.profile</string>
 <key>PayloadOrganization</key>
@@ -64,9 +64,9 @@
 </dict>
 </array>
 <key>PayloadDisplayName</key>
-<string>Chặn thu hồi ( Không chặn ADS ) ✅</string>
+<string>Anti-cert NO BLOCK ADS ✅</string>
 <key>PayloadIdentifier</key>
-<string>khoindvn.bio.link.profile</string>
+<string>ahmadsnde.bio.link.profile</string>
 <key>PayloadOrganization</key>
 <string>Blocking Cert Revocation No Block Ads</string>
 <key>PayloadType</key>
